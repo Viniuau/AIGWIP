@@ -1,20 +1,14 @@
-# WIPIWIG
-What I'm Paying Is What I'm Getting? Create logs to report to your ISP if the quality of your connection match the plan that you are paying for.
+# AIGWIP
+Am I Getting What I'm Paying?
+Create logs to report to your ISP if the quality of your connection matches the internet plan you are paying for.
 
-## For compiling:
+## Try it:
 
 ### Dependencies
 * speedtest_cli
 * datetime
 
-> pip3 install speedtest_cli
-
-> pip3 install datetime
-
 ### Running
 
+> pip install -r requirements.txt <br>
 > python wipiwig.py
-
-## Binary
-
-Just execute it
