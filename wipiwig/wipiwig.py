@@ -1,6 +1,5 @@
 import speedtest
 from os import system
-from sys import 
 from datetime import datetime
 from time import sleep
 import json
