@@ -10,5 +10,7 @@ Create logs to report to your ISP if the quality of your connection matches the 
 
 ### Running
 
-> pip install -r requirements.txt <br>
-> python wipiwig.py
+```bash
+pip install -r requirements.txt
+python wipiwig.py
+```
