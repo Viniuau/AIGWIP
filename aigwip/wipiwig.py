@@ -1,6 +1,5 @@
 import speedtest
 from os import system
-from sys import 
 from datetime import datetime
 from time import sleep
 import json
@@ -107,7 +106,7 @@ if __name__ == "__main__":
     print("""------
 WIPWIG? (What I'm Paying Is What I'm Getting?)
 Made by: 4pocalipse
-Available at: 
+Available at: https://github.com/theapocalipse/WIPIWIG
 Written in: Python 3.7
 ------
 1 - Start Scan
