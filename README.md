@@ -8,6 +8,7 @@ What I'm Paying Is What I'm Getting? Create logs to report to your ISP if the qu
 * datetime
 
 > pip3 install speedtest_cli
+
 > pip3 install datetime
 
 ### Running
